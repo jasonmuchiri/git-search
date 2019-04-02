@@ -22,7 +22,7 @@ Then you start working on it right away!
 
 ## Project's link to gh-pages
 
-
+https://jasonmuchiri.github.io/git-search/
 
 ## BDD
 
