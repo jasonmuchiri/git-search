@@ -1,27 +1,44 @@
-# GitSearch
+# Git search
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+## Author
 
-## Development server
+[Jason Muchiri](https://github.com/jasonmuchiri)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Project's setup instructions
 
-## Build
+To start using this project use the following commands:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- `git clone` this will clone the repository to your local machine.
 
-## Running unit tests
+- `npm install -g @angular/cli`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- `ng serve` 
 
-## Running end-to-end tests
+Then you start working on it right away!
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Project's link to gh-pages
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## BDD
+
+|Behaviour|Input Example|Output Examople|
+|---------|-------------|---------------|
+|input a username|jasonmuchiri|gives you the person's profile and the number with names of his/her repositories|
+
+## Contacts 
+
+email me here:
+jasonmkinyua@gmail.com
+
+## License information
+
+MIT License
+
+Copyright (c) 2019 cooldragon
+
+
